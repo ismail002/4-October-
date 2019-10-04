@@ -1,0 +1,7 @@
+this is the modifation of 2.txt[D[D[D[D[D[C[A[A
+[A[A[B
+git status
+git log
+pwd
+Z
+cat>>2.txt
